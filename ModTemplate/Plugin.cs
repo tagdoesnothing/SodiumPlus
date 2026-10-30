@@ -10,6 +10,7 @@ namespace ModTemplate
 
         public void OnGameInit()
         {
+            // --- discord.gg/WeHuTjXM9R ---
             QualitySettings.lodBias = 0.0f;
             QualitySettings.antiAliasing = 0;
             QualitySettings.enableLODCrossFade = false;
@@ -22,6 +23,7 @@ namespace ModTemplate
             QualitySettings.shadowResolution = ShadowResolution.Low;
             QualitySettings.shadows = ShadowQuality.Disable;
             QualitySettings.shadowProjection = 0;
+            // --- discord.gg/WeHuTjXM9R ---
         }
     }
 }
